@@ -17,5 +17,10 @@ namespace GitHub2KilianOrtner
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Du bist ein Kek");
+        }
     }
 }
