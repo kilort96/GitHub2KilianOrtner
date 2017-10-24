@@ -12,6 +12,7 @@ namespace GitHub2KilianOrtner
 {
     public partial class Form1 : Form
     {
+        //Initialisierung
         public Form1()
         {
             InitializeComponent();
