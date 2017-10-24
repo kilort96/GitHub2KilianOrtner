@@ -22,6 +22,7 @@ namespace GitHub2KilianOrtner
         {
             MessageBox.Show("Du bist ein Kek");//ghfh
             MessageBox.Show("Kilian ich hab dich gehackt");
+            MessageBox.Show("Lukas du Otto");
         }
     }
 }
